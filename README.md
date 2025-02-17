@@ -3,9 +3,6 @@
 
 **High-grade encryption meets modern GUI design**  
 A Python application for secure data transformation with cryptographic operations
-
-[![Star this repo](https://github.com/shxel/crypticoder)
-
 ---
 
 ## 🌟 Project Highlights
