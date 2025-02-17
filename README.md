@@ -152,10 +152,6 @@ Distributed under **MIT License**
 
 ---
 
-## 📬 Support & Contact
-
-**Community Support**:  
-[GitHub Discussions](https://github.com/shxel/crypticoder/discussions)
-
+## 📬 Support & Contact 
 **Maintainer**:  
 [shxel](https://github.com/shxel)  
